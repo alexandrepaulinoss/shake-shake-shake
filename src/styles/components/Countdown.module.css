@@ -74,7 +74,13 @@
     border-style: solid;
 }
 
-.countdownButton:disabled img {
+.countdownButton img {
+    padding-left: 20px;
+    width: 2.8rem;
+    height: 2.8rem;
+}
+
+.buttonIcon {
     padding-left: 20px;
     width: 2.8rem;
     height: 2.8rem;
