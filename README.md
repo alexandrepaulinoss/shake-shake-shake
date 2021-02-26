@@ -1,6 +1,29 @@
+## Just want to run this and see how does it works?
+
+Access https://shake-shake-shake.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+Clone this repository:
+
+```bash
+git clone https://github.com/alexandrepaulinoss/shake-shake-shake.git
+```
+
+Enter on the created directory:
+
+```bash
+cd shake-shake-shake.
+```
+
+Install the needed packages:
+
+```bash
+yarn
+```
 
 First, run the development server:
 
